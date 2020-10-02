@@ -1,0 +1,10 @@
+$DATA1 SOURCE='HSPICE' VERSION='L-2016.06 linux64' PARAM_COUNT=0
+.TITLE '*************************'
+ t_fall_delay_a   t_fall_delay_b   t_rise_delay_a   t_rise_delay_b  
+ t_fall_time      t_rise_time      time1            time2           
+ switching_power  switching_energy leakage_current  leakage_power   
+ temper           alter#          
+  4.113e-12        3.826e-12        4.376e-12        4.259e-12      
+  4.305e-12        4.846e-12        8.902e-12        6.120e-12      
+ -5.043e-05        1.403e-16        7.138e-12        4.997e-12      
+   25.0000        1               

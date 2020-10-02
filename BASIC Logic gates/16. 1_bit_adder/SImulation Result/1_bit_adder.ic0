@@ -1,0 +1,31 @@
+* "simulator" "HSPICE" 
+* "version" "L-2016.06 linux64"
+* "format" "HSP"
+* "rundate" "21:06:32 04/06/2020 "
+* "netlist" "1_bit_adder.sp "
+* "runtitle" "*************************"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ b =   0.            
++ c =   0.            
++ cout = 699.9992m       
++ sum = 699.9992m       
++ x = 700.0000m       
++ z1 = 699.9980m       
++ z10 =  12.0422m       
++ z11 = 699.9251m       
++ z12 = 699.9626m       
++ z2 = 699.9970m       
++ z3 = 699.9940m       
++ z4 =  54.8551m       
++ z5 =  35.8208m       
++ z6 = 699.8877m       
++ z7 = 615.9271m       
++ z8 = 700.0000m       
++ z9 =  66.2357m       
+***   END: Saved Operating Point ***                     

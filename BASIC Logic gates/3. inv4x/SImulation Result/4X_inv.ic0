@@ -1,0 +1,16 @@
+* "simulator" "HSPICE" 
+* "version" "L-2016.06 linux64"
+* "format" "HSP"
+* "rundate" "19:36:10 04/06/2020 "
+* "netlist" "4X_inv.sp "
+* "runtitle" "*************************"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ x = 700.0000m       
++ y =   0.            
++ z = 700.0000m       
+***   END: Saved Operating Point ***                     

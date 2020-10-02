@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='L-2016.06 linux64' PARAM_COUNT=0
+.TITLE '*************************'
+ t_fall_delay_a   t_fall_delay_b   t_rise_delay_a   t_rise_delay_b  
+ t_fall_time      t_rise_time      temper           alter#          
+  3.624e-12        2.200e-06       -8.956e-07        4.402e-09      
+  3.501e-12        1.371e-08         25.0000        1               

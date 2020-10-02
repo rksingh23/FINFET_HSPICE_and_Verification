@@ -1,0 +1,17 @@
+* "simulator" "HSPICE" 
+* "version" "L-2016.06 linux64"
+* "format" "HSP"
+* "rundate" "13:10:17 04/06/2020 "
+* "netlist" "DRAM_Sweep.sp "
+* "runtitle" "*************************"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ vdd = 525.1068m       
++ x = 350.0000m       
++ y = 700.0000m       
++ z = 700.0000m       
+***   END: Saved Operating Point ***                     

@@ -1,0 +1,220 @@
+### Custom WaveView ADV log file, revision L-2016.06-1 (build Jul 27, ) ###
+### created at 21:02:53 on Mon Apr  6 2020 (Linux AMD64) ###
+### Host Name: viterbi-scf2   User ID: rksingh   PID: 23634   ###
+wv_start_log
+# (0) running in waveview only mode
+# (0) SW_SX_PERL_LIB defined
+# (0) SW_SX_TCL_LIB defined
+# (0) HOME defined
+wv_move_window CustomWaveView 0 0
+wv_resize_window CustomWaveView 800 400
+wv_move_window CustomWaveView 32 32
+wv_move_window CustomWaveView 133 62
+wv_resize_window CustomWaveView 1687 758
+wv_select_menu_item {File} {Import Waveform File ...}
+wv_move_dialog FileDialog 789 185
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {}
+wv_select_list_item FileDialog.FileList 1_bit_adder.tr0
+wv_dclick_list_item FileDialog.FileList 1_bit_adder.tr0
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_dclick_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0/toplevel}
+wv_dclick_tree_item MainWindow.hierview {D0:1_bit_adder.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(sum)
+wv_dclick_list_item MainWindow.sigview v(sum)
+wv_select_list_item MainWindow.sigview v(cout)
+wv_dclick_list_item MainWindow.sigview v(cout)
+wv_select_panel WV1.PANEL3:1 1.59346e-05 0.453383
+wv_select_list_item MainWindow.sigview v(c)
+wv_select_list_item MainWindow.sigview v(c)
+wv_dclick_list_item MainWindow.sigview v(c)
+wv_move_dialog Confirmation 757 424
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_panel WV1.PANEL3:1 3.76168e-06 0.41208
+wv_waveview_context_menu WV1.PANEL3:1 3.76168e-06 0.41208
+wv_select_panel WV1.PANEL5:1 1.74299e-05 0.680374
+wv_select_panel WV1.PANEL4:1 4.50935e-06 0.226111
+wv_waveview_context_menu WV1.PANEL4:1 4.50935e-06 0.226111
+wv_waveview_context_menu WV1.PANEL4:1 1.96262e-06 0.549071
+wv_select_panel WV1.PANEL4:1 4.57944e-06 0.00860744
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_tree_context_menu MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_select_context_menu_item {Close This File}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_menu_item {File} {Import Waveform File ...}
+wv_move_dialog FileDialog 789 185
+wv_move_dialog FileDialog 798 223
+wv_select_dialog FileDialog
+wv_set_text FileDialog.FileName {1_bit_adder.tr0}
+wv_select_list_item FileDialog.FileList 1_bit_adder.tr0
+wv_dclick_list_item FileDialog.FileList 1_bit_adder.tr0
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_dclick_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0/toplevel}
+wv_dclick_tree_item MainWindow.hierview {D0:1_bit_adder.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(c)
+wv_dclick_list_item MainWindow.sigview v(c)
+wv_select_list_item MainWindow.sigview v(sum)
+wv_dclick_list_item MainWindow.sigview v(sum)
+wv_select_list_item MainWindow.sigview v(cout)
+wv_dclick_list_item MainWindow.sigview v(cout)
+wv_select_tree_item MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_tree_context_menu MainWindow.hierview {D0:1_bit_adder.tr0}
+wv_select_context_menu_item {Close This File}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_menu_item {File} {Import Waveform File ...}
+wv_move_dialog FileDialog 798 223
+wv_move_dialog FileDialog 789 185
+wv_select_dialog FileDialog
+wv_move_dialog FileDialog 798 223
+wv_set_text FileDialog.FileName {1_bit_adder.tr0}
+wv_horz_scroll FileDialog.FileList 385
+wv_horz_scroll FileDialog.FileList 770
+wv_horz_scroll FileDialog.FileList 1069
+wv_select_list_item FileDialog.FileList nor1_LP_IG.tr0
+wv_dclick_list_item FileDialog.FileList nor1_LP_IG.tr0
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP_IG.tr0}
+wv_dclick_tree_item MainWindow.hierview {D0:nor1_LP_IG.tr0}
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP_IG.tr0}
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP_IG.tr0/toplevel}
+wv_dclick_tree_item MainWindow.hierview {D0:nor1_LP_IG.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(z2)
+wv_dclick_list_item MainWindow.sigview v(z2)
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP_IG.tr0}
+wv_tree_context_menu MainWindow.hierview {D0:nor1_LP_IG.tr0}
+wv_select_context_menu_item {Close This File}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_menu_item {File} {Import Waveform File ...}
+wv_move_dialog FileDialog 798 223
+wv_move_dialog FileDialog 789 185
+wv_select_dialog FileDialog
+wv_move_dialog FileDialog 798 223
+wv_set_text FileDialog.FileName {nor1_LP_IG.tr0}
+wv_horz_scroll FileDialog.FileList 385
+wv_horz_scroll FileDialog.FileList 770
+wv_select_list_item FileDialog.FileList nand1_LP.tr0
+wv_press_button FileDialog.Ok
+wv_select_tree_item MainWindow.hierview {D0:nand1_LP.tr0}
+wv_dclick_tree_item MainWindow.hierview {D0:nand1_LP.tr0}
+wv_select_tree_item MainWindow.hierview {D0:nand1_LP.tr0}
+wv_select_tree_item MainWindow.hierview {D0:nand1_LP.tr0/toplevel}
+wv_dclick_tree_item MainWindow.hierview {D0:nand1_LP.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(z2)
+wv_dclick_list_item MainWindow.sigview v(z2)
+wv_select_list_item MainWindow.sigview v(z1)
+wv_dclick_list_item MainWindow.sigview v(z1)
+wv_select_panel WV1.PANEL3:1 3.47352e-06 0.346817
+wv_waveview_context_menu WV1.PANEL3:1 3.47352e-06 0.346817
+wv_select_context_menu_item {Delete Panel}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_menu_item {File} {Import Waveform File ...}
+wv_move_dialog FileDialog 798 223
+wv_move_dialog FileDialog 789 185
+wv_select_dialog FileDialog
+wv_move_dialog FileDialog 798 223
+wv_set_text FileDialog.FileName {nand1_LP.tr0}
+wv_select_list_item FileDialog.FileList 1_bit_adder.mt0
+wv_horz_scroll FileDialog.FileList 150
+wv_horz_scroll FileDialog.FileList 285
+wv_horz_scroll FileDialog.FileList 418
+wv_horz_scroll FileDialog.FileList 547
+wv_horz_scroll FileDialog.FileList 646
+wv_horz_scroll FileDialog.FileList 748
+wv_horz_scroll FileDialog.FileList 872
+wv_select_list_item FileDialog.FileList nor1_LP.tr0
+wv_dclick_list_item FileDialog.FileList nor1_LP.tr0
+wv_select_tree_item MainWindow.hierview {D0:nand1_LP.tr0}
+wv_tree_context_menu MainWindow.hierview {D0:nand1_LP.tr0}
+wv_select_context_menu_item {Close This File}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP.tr0}
+wv_dclick_tree_item MainWindow.hierview {D0:nor1_LP.tr0}
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP.tr0}
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP.tr0/toplevel}
+wv_dclick_tree_item MainWindow.hierview {D0:nor1_LP.tr0/toplevel}
+wv_select_list_item MainWindow.sigview v(a)
+wv_dclick_list_item MainWindow.sigview v(a)
+wv_select_list_item MainWindow.sigview v(b)
+wv_dclick_list_item MainWindow.sigview v(b)
+wv_select_list_item MainWindow.sigview v(z1)
+wv_dclick_list_item MainWindow.sigview v(z1)
+wv_select_list_item MainWindow.sigview v(z2)
+wv_dclick_list_item MainWindow.sigview v(z2)
+wv_select_panel WV1.PANEL3:1 1.7757e-06 0.476826
+wv_waveview_context_menu WV1.PANEL3:1 1.7757e-06 0.476826
+wv_select_context_menu_item {Delete Panel}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_tree_item MainWindow.hierview {D0:nor1_LP.tr0}
+wv_tree_context_menu MainWindow.hierview {D0:nor1_LP.tr0}
+wv_select_context_menu_item {Close This File}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_menu_item {File} {Import Waveform File ...}
+wv_move_dialog FileDialog 798 223
+wv_move_dialog FileDialog 789 185
+wv_select_dialog FileDialog
+wv_move_dialog FileDialog 798 223
+wv_set_text FileDialog.FileName {nor1_LP.tr0}
+wv_horz_scroll FileDialog.FileList 385
+wv_select_list_item FileDialog.FileList DRAM_MOSFET_Sweep.mt0
+wv_dclick_list_item FileDialog.FileList DRAM_MOSFET_Sweep.mt0
+wv_select_tree_item MainWindow.hierview {D0:DRAM_MOSFET_Sweep.mt0}
+wv_dclick_tree_item MainWindow.hierview {D0:DRAM_MOSFET_Sweep.mt0}
+wv_select_tree_item MainWindow.hierview {D0:DRAM_MOSFET_Sweep.mt0}
+wv_select_tree_item MainWindow.hierview {D0:DRAM_MOSFET_Sweep.mt0/measure}
+wv_dclick_tree_item MainWindow.hierview {D0:DRAM_MOSFET_Sweep.mt0/measure}
+wv_select_list_item MainWindow.sigview loadcap
+wv_dclick_list_item MainWindow.sigview loadcap
+wv_select_list_item MainWindow.sigview multiplier
+wv_dclick_list_item MainWindow.sigview multiplier
+wv_waveview_context_menu WV1.PANEL2:1.LEGEND
+wv_waveview_context_menu WV1.PANEL2:1 41.2064 9.41071
+wv_select_context_menu_item {Delete Panel}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_list_item MainWindow.sigview rtl
+wv_waveview_context_menu WV1.PANEL1:1 34.9369 1.75183e-11
+wv_select_context_menu_item {Delete Panel}
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+wv_press_button Confirmation.Ok
+wv_select_list_item MainWindow.sigview rtl
+wv_dclick_list_item MainWindow.sigview rtl
+wv_close_window CustomWaveView
+wv_move_dialog Confirmation 894 432
+wv_select_dialog Confirmation
+# wv_press_button Confirmation.Ok
